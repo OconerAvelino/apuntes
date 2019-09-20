@@ -1,0 +1,21 @@
+#+title: Apuntes de gráficas
+#+author: O'conner Avelino
+
+* Defiinición de gráfica
+
+Una gráfica \(G\) consta de dos conjuntos, uno llamado el conjunto de
+vértices y otro llamado el conjunto de aristas
+
+** Vértices y aristas
+
+** Orden y tamaño
+
+** gráficas Regulares
+
+*** Gráficas cubicas
+
+** Isomorfismo de gráficas
+
+* Complemento de una gráfica 
+
+* Teorema fundamental 
